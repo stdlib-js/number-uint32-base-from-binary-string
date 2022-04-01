@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/number-uint32-base-from-binary-string",
+  "version": "0.0.0",
+  "description": "Create an unsigned 32-bit integer from a literal bit representation.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/number-uint32-base-from-binary-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdtypes",
+    "base",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "types",
+    "type",
+    "binary",
+    "bin",
+    "bits",
+    "uint32",
+    "32-bit",
+    "32bit",
+    "int",
+    "integer",
+    "unsigned",
+    "parse",
+    "string",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}

@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import fromBinaryStringUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-from-binary-string@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-uint32-base-from-binary-string/tags). For example,
+
+```javascript
 import fromBinaryStringUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-from-binary-string@v0.1.0-deno/mod.js';
 ```
 
@@ -82,7 +87,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import MAX_UINT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@deno/mod.js';
 import toBinaryStringUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@deno/mod.js';
-import fromBinaryStringUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-from-binary-string@v0.1.0-deno/mod.js';
+import fromBinaryStringUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-from-binary-string@deno/mod.js';
 
 var b;
 var x;
